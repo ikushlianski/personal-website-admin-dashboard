@@ -1,0 +1,25 @@
+{
+  "name": "personal-website-admin-dashboard",
+  "version": "0.1.0",
+  "description": "A tool for managing skill and other data for the websites of my mentees ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ikushlianski/personal-website-admin-dashboard.git"
+  },
+  "keywords": [
+    "graphql",
+    "react",
+    "mongodb",
+    "apollo-server"
+  ],
+  "author": "Ilya Kushlianski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikushlianski/personal-website-admin-dashboard/issues"
+  },
+  "homepage": "https://github.com/ikushlianski/personal-website-admin-dashboard#readme"
+}
